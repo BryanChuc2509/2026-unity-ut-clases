@@ -276,6 +276,8 @@ La función:
 
 ```
 Input.GetKey()
+Input.GetKeyDown()
+Input.GetKeyUp()
 ```
 
 permite comprobar si una tecla está siendo presionada.
